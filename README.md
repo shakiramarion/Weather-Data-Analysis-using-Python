@@ -1,2 +1,2 @@
 # Weather-Data-Analysis-using-Python
-This project analyzes a year-long weather dataset to explore trends in temperature, humidity, wind speed, visibility, and weather conditions using Python.
+This project involves analyzing a weather dataset using Python to extract insights about temperature, humidity, wind speed, visibility, and weather conditions. The dataset spans an entire year with 8,784 hourly observations. Key analyses include identifying weather trends, conditions, and variations, providing a comprehensive understanding of climatic patterns over time.
